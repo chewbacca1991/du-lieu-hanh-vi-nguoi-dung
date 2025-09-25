@@ -10,4 +10,4 @@ Chúng tôi luôn hoan nghênh sự đóng góp từ cộng đồng. Dưới đ�
 5. Mở Pull Request.
 
 ## Liên Hệ
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng gửi email đến [support@project-example.com].
+Nếu bạn có bất kỳ câu hỏi nào, vui lòng gửi email đến [support@new-example.com].
